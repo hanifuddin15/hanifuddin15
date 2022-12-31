@@ -40,6 +40,6 @@
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asifnewaz&theme=dark&hide_langs_below=1" />-->
 <img src="https://github-readme-stats.vercel.app/api?username=Asifnewaz&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Asifnewaz&" alt="Asifnewaz"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanifuddin15&" alt="HanifUddin"/></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asifnewaz&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanifuddin15&theme=tokyonight) 
