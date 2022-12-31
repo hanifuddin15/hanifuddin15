@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Asif Newaz</h1>
+<h1 align="center">Hi 👋, I'm Hanif Uddin</h1>
 
-- 🔭 I’m currently working on iOS project
+- 🔭 I’m currently working on Flutter & C# project
 
 - 🌱 I’m currently improving my Algorithm & Data Structure skills
 
 - 👯 I’m looking to collaborate with **other content creators**
 
-- 📫 How to reach me: [Email](mail.asifnewaz@gmail.com)
+- 📫 How to reach me: [Email](hanifuddin.eee.buet@outlook.com)
 
 - ⚡ Fun fact **I love to play games.**
 
@@ -21,7 +21,7 @@
 ### Languages and Tools:
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" alt="swift" width="22" height="22"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" alt="iOS" width="22" height="22"/> 
+<!--<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" alt="swift" width="22" height="22"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" alt="iOS" width="22" height="22"/> -->
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp" width="22" height="22"/> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter" width="22" height="22"/> 
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/>  
@@ -38,7 +38,7 @@
 
 ### Statistics
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asifnewaz&theme=dark&hide_langs_below=1" />-->
-<img src="https://github-readme-stats.vercel.app/api?username=Asifnewaz&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=hanifuddin15&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanifuddin15&" alt="HanifUddin"/></p>
 
