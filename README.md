@@ -1,72 +1,45 @@
-👨‍💻 Hanif Uddin
+<h1 align="center">Hi 👋, I'm Hanif Uddin</h1>
 
-  
+- 🔭 I’m currently working on Flutter & C# project
 
+- 🌱 I’m currently improving my Algorithm & Data Structure skills
 
+- 👯 I’m looking to collaborate with **other content creators**
 
-  I'm a passionate Flutter developer from Jamalpur, Bangladesh, with a B.Sc. in Electrical and Electronic Engineering from Premier University, Chittagong (2016). I specialize in building cross-platform mobile apps and have experience with blockchain integration, ERP systems, and multi-vendor e-commerce solutions. Currently, I'm enhancing my skills in algorithms and data structures while working on innovative projects.
+- 📫 How to reach me: [Email](hanifuddin.eee.buet@outlook.com)
 
+- ⚡ Fun fact **I love to play games.**
 
-
-🚀 About Me
-
-🔭 Currently working at: Pakiza Software Ltd, contributing to Flutter and C# projects.
-🌱 Learning: Advanced algorithms, data structures, and blockchain development.
-👯 Open to collaboration: With developers and creators on mobile apps and open-source projects.
-💼 Past experience: Dinnova AG, CRID USA, and freelance work on the OP Social Mobile App.
-📫 Reach me:hanifuddin.dev@gmail.com Or hanifuddin.eee.buet@outlook.com 
-⚡ Fun fact: I love playing games and tackling coding challenges in my free time!
-
-
-🌐 Connect with Me
-
-  
-    
-  
-  
-    
-  
-  
-    
-  
+### Connect with me:
+<!-- ![Twitter Follow](https://img.shields.io/twitter/follow/measifnewaz?label=measifnewaz&logo=twitter&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/Asifnewaz?logo=GitHub&style=for-the-badge) -->
+<a href="https://twitter.com/iAmAsifNewaz" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Asifnnewaz" height="22" width="22" /></a>
+<a href="https://linkedin.com/in/measifnewaz" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Asifnewaz" height="22" width="22" /></a>
+![](https://komarev.com/ghpvc/?username=Asifnewaz&color=138D75&style=flat+square&label=Total+views)
 
 
+### Languages and Tools:
 
-🛠️ Languages and Tools
-
-  
-  
-  
-  
-  
-  
-  
-  
-
-
-
-📊 Statistics
-
-  
+<p align="left">
+<!--<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" alt="swift" width="22" height="22"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" alt="iOS" width="22" height="22"/> -->
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp" width="22" height="22"/> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter" width="22" height="22"/> 
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/>  
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="22" height="22"/> 
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/>  
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/>  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" width="22" height="22"/> 
+</p>
 
 
-
-  
-
-
-
-  
+<!-- **Stats :**  Showing a github Ranking in BD  -->
+<!-- [![Asif's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=Asifnewaz&country_code=bangladesh&theme=dark)](https://github.com/Muhammadsher/github-readme-ranking) -->
 
 
+### Statistics
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asifnewaz&theme=dark&hide_langs_below=1" />-->
+<img src="https://github-readme-stats.vercel.app/api?username=hanifuddin15&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515">
 
-🏆 Achievements
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanifuddin15&" alt="HanifUddin"/></p>
 
-  
-  
-  
-
-
-
-  
-    
-  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanifuddin15&theme=tokyonight)
