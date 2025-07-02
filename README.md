@@ -14,7 +14,7 @@
 🌱 Learning: Advanced algorithms, data structures, and blockchain development.
 👯 Open to collaboration: With developers and creators on mobile apps and open-source projects.
 💼 Past experience: Dinnova AG, CRID USA, and freelance work on the OP Social Mobile App.
-📫 Reach me: hanifuddin.eee.buet@outlook.com
+📫 Reach me:hanifuddin.dev@gmail.com Or hanifuddin.eee.buet@outlook.com 
 ⚡ Fun fact: I love playing games and tackling coding challenges in my free time!
 
 
