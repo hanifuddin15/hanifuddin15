@@ -1,20 +1,22 @@
 <h1 align="center">Hi 👋, I'm Hanif Uddin</h1>
 
-- 🔭 I’m currently working on Flutter & C# project
+- 🔭 I’m currently working on Flutter project
 
 - 🌱 I’m currently improving my Algorithm & Data Structure skills
 
 - 👯 I’m looking to collaborate with **other content creators**
 
-- 📫 How to reach me: [Email](hanifuddin.eee.buet@outlook.com)
+- 📫 How to reach me(Primary): [Email](hanifuddin.dev@gmail.com)
+
+- - 📫 How to reach me: [Email](hanifuddin.eee.buet@outlook.com)
 
 - ⚡ Fun fact **I love to play games.**
 
 ### Connect with me:
 <!-- ![Twitter Follow](https://img.shields.io/twitter/follow/measifnewaz?label=measifnewaz&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/Asifnewaz?logo=GitHub&style=for-the-badge) -->
-<a href="https://twitter.com/iAmAsifNewaz" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Asifnnewaz" height="22" width="22" /></a>
-<a href="https://linkedin.com/in/measifnewaz" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Asifnewaz" height="22" width="22" /></a>
+
+<a href="https://linkedin.com/in/hanifuddin15" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Hanifuddin" height="22" width="22" /></a>
 ![](https://komarev.com/ghpvc/?username=Asifnewaz&color=138D75&style=flat+square&label=Total+views)
 
 
